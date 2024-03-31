@@ -2,8 +2,6 @@
 
 Summarize any kind of article with just one click using the powerful OpenAI model.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
 # ⚙️ Tech Stack
 
 - React.js
@@ -41,7 +39,7 @@ Make sure you have the following installed on your machine:
 git clone https://github.com/adrianhajdin/project_ai_summarizer.git
 cd project_ai_summarizer
 
-## Installation
+#Installation
 Install the project dependencies using npm:
 
 ```bash
